@@ -1,0 +1,4 @@
+4,lop,ggg
+45,ghost,lup
+89,polo,kap
+67,kopo,jol
